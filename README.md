@@ -1,7 +1,7 @@
 # mysql-terminal-cmd
 
 ## *Create database*
-'''sql
+'''{mysql}
 create databse [databasename];
 '''
 
