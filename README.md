@@ -1,9 +1,9 @@
 # mysql-terminal-cmd
 
 ## *Create database*
-'''{mysql}
+```{mysql}
 create databse [databasename];
-'''
+```
 
 *List of all databases*
 show databases;
